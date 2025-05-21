@@ -1,21 +1,69 @@
-# 🖥️ Meu currículo e Portfólio
-O Site foi feito com o intúito de mostar meu currículo e portfólio online.
-Foi proposto no curso de Desenvolvimento de Software Multiplataforma no primeiro semestre de 2024.
+<p align="center">
+</p>
 
-# 📄 Objetivo
-O objetivo do site é mostar um "currículo" online para que pessoas e empresas possam me avaliar através de uma interface online de maneira facil e simples.
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-Link do site: https://schizari.netlify.app/
+![Profile views](https://komarev.com/ghpvc/?username=schizary&color=blue)
 
-# 📷 Imagens do site
-![Screenshot_66](https://github.com/schizary/Site_Curriculo/assets/161368632/a69f8f57-6b68-42bd-922d-f1f80d65b33e)
-![Screenshot_67](https://github.com/schizary/Site_Curriculo/assets/161368632/8dcd471f-de3d-4a22-ab05-bcc41be7084e)
-![Screenshot_68](https://github.com/schizary/Site_Curriculo/assets/161368632/39d458ab-ec4b-42d0-9af7-a97fd71169f0)
+[![Github](https://img.shields.io/github/followers/schizary?label=Follow&style=social)](https://github.com/schizary)
 
-# 🔗 Recursos utilizados
-<div style="display: inline_block"> <br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<div size='20px'> Hi! My name is Gustavo Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
+<h2> About Me</h2>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  SMN Tecnologia
+  
+- 🌱 I’m currently learning Git, GO, Azure and Clojure
+  
+- 👯 I’m looking to collaborate on Open-source Projects
+
+- ✔️ AZ-104 and AZ-305 Microsoft Certified: Azure Solutions Architect Expert 
+  
+- 💬 Ask me about Sql, C#, JavaScript and jQuery
+
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=sql&sort=">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=azure&type=&language=&sort=">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=jquery&type=&language=&sort=">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+</a>
+
+
+
+
+<h2> Contact with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/gustavo-schizari'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/schizary'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="https://discord.com/users/schizary_">
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/>
+</a>
+
+
+  
+<br>
+<br>
+  <br>
+  
+[![Schizary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=schizary&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Schizary's github stats](https://github-readme-stats.vercel.app/api?username=schizary&show_icons=true&theme=tokyonight) | ![Schizary GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=schizary&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schizary&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=schizary&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
+<br>
